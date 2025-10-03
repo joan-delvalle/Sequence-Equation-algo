@@ -1,1 +1,1 @@
-# Sequence-Equation-algo
+# Sequence-Equation-algo This function finds, for each number `x` from 1 to `n`, the position `y` such that `p[p[y]] = x`. It does this by first finding where `x` appears in the list, then finding where that position appears, and collects all these `y` values in a result list.
